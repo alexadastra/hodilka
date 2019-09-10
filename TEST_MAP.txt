@@ -1,0 +1,71 @@
+240
+69
+-1 north_hall 240 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 100 e 1 k sos sas 17 e 1 b 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 b 59 e 1 w
+-1 north_hall 1 w 59 e 1 d door sas -1 central 118 e 1 b 59 e 1 w
+-1 north_hall 1 w 59 e 1 d door sas -1 central 118 e 1 b 59 e 1 w
+-1 north_hall 1 w 59 e 1 e -1 central 118 e 1 b 59 e 1 w
+-1 north_hall 1 w 59 e 1 d door sas -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 d door sas -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 d door sas -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 1 w 59 e 1 w -1 central 118 e 1 w 59 e 1 w
+-1 north_hall 60 w 1 w 118 e 1 w 60 w
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 1 w 118 e 1 w 60 n
+-1 north_hall 60 n 55 w 10 bh 55 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 1 w 118 e 1 w 60 n
+-1 south_hall 60 n 120 w 60 n

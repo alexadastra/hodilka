@@ -1,0 +1,137 @@
+435
+135
+3 n 430 n 2 n
+3 n 430 n 2 n
+3 n 430 n 2 n
+3 n 430 w 2 n
+3 n 430 w 2 n
+3 n 430 w 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 50 e 10 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 52 e	8 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 54 e	6 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 56 e	4 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 57 e	3 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 58 e	2 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 59 e	1 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 59 e	1 o 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 59 e	1 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 58 e	2 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 57 e	3 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 56 e	4 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 54 e	6 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 52 e	8 n 2 n
+3 n 10 w 110 e 10 w 230 e 10 w 50 e	10 n 2 n
+3 n 10 w 50 e 10 w 50 bh 10 w 50 e 130 w 50 e 10 w 50 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 130 w 50 e 10 w 50 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 bh 10 w 50 e 130 w 50 e 10 w 50 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 10 e 1 k left left 28 e 1 k right right 10 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 53 e 4 d final far_away 53 e 10 w 2 n
+3 n 10 w 50 e 70 w 50 e 10 w 50 e 10 w 50 e 130 w 2 n
+3 n 10 w 20 w 10 d first_door right 20 w 70 w 50 e 10 w 50 e 10 w 50 e 130 w 2 n
+3 n 10 w 50 e 70 w 50 e 10 w 50 e 10 w 50 e 130 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 110 e 10 w 50 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 70 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 70 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 10 w 50 e 10 w 50 e 70 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 10 e 97 e 1 k final far_away 2 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 10 w 230 e 10 w 110 e 10 w 50 e 10 w 2 n
+3 n 310 w 50 e 10 w 50 e 10 w 2 n
+3 n 310 w 50 e 10 w 50 e 10 w 2 n
+3 n 310 w 50 e 10 w 50 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 170 e 10 w 110 e 10 w 110 e 10 w 2 n
+3 n 10 w 60 e 60 w 50 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 2 n
+3 n 10 w 60 e 60 w 50 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 2 n
+3 n 10 w 60 e 60 w 50 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 10 w 110 e 10 w 50 e 10 w 50 e 10 w 170 e 10 w 2 n
+3 n 60 w 60 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 60 w 60 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 60 w 60 e 10 w 50 e 10 w 50 e 10 w 50 e 70 w 50 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 10 w 110 e 10 w 110 e 10 w 50 e 10 w 110 e 10 w 2 n
+3 n 430 w 2 n
+3 n 430 w 2 n
+3 n 430 w 2 n
+3 n 430 n 2 n
+3 n 430 n 2 n
+3 n 430 n 2 n

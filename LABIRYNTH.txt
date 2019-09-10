@@ -1,0 +1,45 @@
+43
+43
+43 w
+1 w 11 e 1 w 23 e 1 w 6 e
+1 w 11 e 1 w 23 e 1 w 6 e
+1 w 11 e 1 w 23 e 1 w 6 e
+1 w 11 e 1 w 23 e 1 w 6 e
+1 w 11 e 1 w 23 e 1 w 6 e
+1 w 5 e 1 w 5 e 1 w 5 e 13 w 5 e 1 w 5 e 1 w
+1 w 5 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w 11 e 1 w
+1 w 5 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w 11 e 1 w
+1 w 5 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w 11 e 1 w
+1 w 5 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w 11 e 1 w
+1 w 5 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w 11 e 1 w
+1 w 5 e 7 w 5 e 1 w 5 e 1 w 5 e 13 w
+1 w 5 e 1 w 11 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w
+1 w 5 e 1 w 11 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w
+1 w 5 e 1 w 11 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w
+1 w 5 e 1 w 11 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w
+1 w 5 e 1 w 11 e 1 w 5 e 1 w 5 e 1 w 11 e 1 w
+1 w 5 e 1 w 5 e 7 w 5 e 1 w 5 e 7 w 5 e 1 w
+1 w 23 e 1 w 11 e 1 w 5 e 1 w
+1 w 23 e 1 w 11 e 1 w 5 e 1 w
+1 w 23 e 1 w 11 e 1 w 5 e 1 w
+1 w 23 e 1 w 11 e 1 w 5 e 1 w
+1 w 23 e 1 w 11 e 1 w 5 e 1 w
+31 w 5 e 1 w 5 e 1 w
+1 w 17 e 1 w 11 e 1 w 11 e 1 w
+1 w 17 e 1 w 11 e 1 w 11 e 1 w
+1 w 17 e 1 w 11 e 1 w 11 e 1 w
+1 w 17 e 1 w 11 e 1 w 11 e 1 w
+1 w 17 e 1 w 11 e 1 w 11 e 1 w
+1 w 6 e 6 w 5 e 1 w 5 e 1 w 5 e 1 w 5 e 7 w
+1 w 11 e 1 w 5 e 1 w 5 e 1 w 17 e 1 w
+1 w 11 e 1 w 5 e 1 w 5 e 1 w 17 e 1 w
+1 w 11 e 1 w 5 e 1 w 5 e 1 w 17 e 1 w
+1 w 11 e 1 w 5 e 1 w 5 e 1 w 17 e 1 w
+1 w 11 e 1 w 5 e 1 w 5 e 1 w 17 e 1 w
+6 w 6 e 1 w 5 e 1 w 5 e 1 w 5 e 7 w 5 e 1 w
+1 w 11 e 1 w 11 e 1 w 5 e 1 w 11 e 1 w
+1 w 11 e 1 w 11 e 1 w 5 e 1 w 11 e 1 w
+1 w 11 e 1 w 11 e 1 w 5 e 1 w 11 e 1 w
+1 w 11 e 1 w 11 e 1 w 5 e 1 w 11 e 1 w
+1 w 11 e 1 w 11 e 1 w 5 e 1 w 11 e 1 w
+43 w
